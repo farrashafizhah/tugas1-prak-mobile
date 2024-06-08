@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # tugas1_prakmobile
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+maaf mas & mba, projectnya dijadiin zip, soalnya kalo engga, uploadnya gagal terus:(
+>>>>>>> 4f1592c1ab9b38c4462ee12bb528d5355e54339b
